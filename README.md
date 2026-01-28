@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim</h1>
+<h1 align="center">Hi 👋, I'm AL REDOWAN AHMED FAHIM/h1>
 <h3 align="center">A passionate Front-End and WordPress Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
@@ -53,9 +53,9 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Portfolio&logoColor=white)](https://al-redowan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/AR.ERROR.404)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Al.redowan.ahmed.fahim)
 [![Mail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:fahimdj071@gmail.com)
 
 ---
 
-⭐️ From [@fahimdj071](https://github.com/fahimdj071)
+⭐️ From [@fahimdj071](https://github.com/al-redowan)
