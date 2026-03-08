@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AL REDOWAN AHMED FAHIM/h1>
+<h1 align="center">Hi 👋, I'm AL Redowan Ahamed Fahim <h1>
 <h3 align="center">A passionate Front-End and WordPress Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
