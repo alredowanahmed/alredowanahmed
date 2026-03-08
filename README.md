@@ -53,9 +53,9 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Portfolio&logoColor=white)](https://al-redowan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Al.redowan.ahmed.fahim)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/alredowanahmed)
 [![Mail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:fahimdj071@gmail.com)
 
 ---
 
-⭐️ From [@fahimdj071](https://github.com/al-redowan)
+⭐️ From [@fahimdj071](https://github.com/alredowanahmed)
